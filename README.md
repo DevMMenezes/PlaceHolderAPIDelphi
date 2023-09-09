@@ -1,6 +1,7 @@
-# PlaceHolderAPIDelphi
+# PlaceHolderAPI com Delphi
 Consumindo PlaceHolder API Delphi - https://www.jsonplaceholder.org
+Framework utilizado: Request4Delphi - https://github.com/viniciussanchez/RESTRequest4Delphi
 
-Implementado os verbos https get,post,put e delete com o framework Request4Delphi (https://github.com/viniciussanchez/RESTRequest4Delphi), com poo e interfaces.
+Implementado os verbos https get,post,put e delete com poo e interfaces.
 
 
